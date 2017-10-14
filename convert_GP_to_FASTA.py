@@ -1,5 +1,4 @@
 """
-Aravind Veerappan
 BNFO 601 - Exam 1 - 09/30/17
 Q1a) convert GenPept to FASTA
 """
