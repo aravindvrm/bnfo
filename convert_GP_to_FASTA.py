@@ -1,6 +1,6 @@
 """
 BNFO 601 - Exam 1 - 09/30/17
-Q1a) convert GenPept to FASTA
+converts GenPept format file to FASTA format file
 """
 from __future__ import print_function
 import re
